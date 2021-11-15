@@ -1,0 +1,106 @@
+@media screen and (max-width: 540px) {
+  .header-section {
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+  }
+  section {
+    padding: 40px 0;
+  }
+  .row {
+    width: 100%;
+  }
+  h1 {
+    font-size: 130%;
+    letter-spacing: 1px;
+    margin: 10px 0 10px;
+  }
+  h2 {
+    font-size: 120%;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 20px 0 10px;
+    text-transform: capitalize;
+  }
+  h3 {
+    font-size: 100%;
+  }
+
+  .description {
+    font-size: 80%;
+    letter-spacing: 1px;
+  }
+  .des-2 {
+    font-size: 80%;
+  }
+
+  .startnow,
+  .getstart {
+    padding: 10px 15px;
+    border-radius: 50px;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-top: 30px;
+  }
+  .col {
+    width: 100%;
+  }
+
+  .feature-container div {
+    padding: 0;
+  }
+
+  .feature-container div img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .feature-container div p {
+    font-size: 70%;
+    text-align: center;
+    margin-top: 10px;
+    line-height: 145%;
+  }
+
+  li {
+    display: block;
+    width: 70%;
+    margin: 0px;
+    margin: 3px;
+    margin: 20px auto 0;
+  }
+
+  li figure {
+    width: 100%;
+  }
+
+  li img {
+    width: 100%;
+    height: 200px;
+    box-shadow: 1px 1px 3px #c0bfbf;
+  }
+
+  li img:hover {
+    opacity: 0.7;
+  }
+  footer div {
+    padding-right: 0;
+  }
+  .footer1 {
+    width: 100%;
+    height: auto;
+    border: 0;
+  }
+  .footer2,
+  .footer3,
+  .footer4 {
+    width: 100%;
+    height: auto;
+    border: 0;
+  }
+  .footer1 div {
+    line-height: 145%;
+    width: 100%;
+    text-align: center;
+  }
+}
