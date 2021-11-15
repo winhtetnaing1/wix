@@ -48,6 +48,7 @@
 
   .feature-container div {
     padding: 0;
+    border: 0;
   }
 
   .feature-container div img {
