@@ -1,7 +1,13 @@
 @media screen and (max-width: 540px) {
+  html {
+    overflow-x: hidden;
+  }
+  body {
+    position: relative;
+  }
   .header-section {
     height: 100vh;
-    width: auto;
+    width: 100%;
     background-size: cover;
   }
   section {
@@ -9,6 +15,7 @@
   }
   .row {
     width: 100%;
+    margin: 0;
   }
   h1 {
     font-size: 130%;
@@ -65,7 +72,7 @@
 
   li {
     display: block;
-    width: 70%;
+    width: 90%;
     margin: 0px;
     margin: 3px;
     margin: 20px auto 0;

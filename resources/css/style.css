@@ -5,11 +5,11 @@
 }
 
 html {
+  width: 100%;
   font-size: 20px;
   background-color: #fff;
   color: #000;
   font-family: sans-serif;
-  overflow-x: hidden;
 }
 
 .row {
